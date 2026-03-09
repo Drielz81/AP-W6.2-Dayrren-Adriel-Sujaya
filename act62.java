@@ -84,4 +84,3 @@ public class act62 {
         System.out.printf("%.1f",total_gaji);
     }
 }
-git 
